@@ -1,6 +1,6 @@
 = My Project
-firstname lastname
-1.0.0, yyyy-mm-dd: Some notes
+Lukas Lummerstorfer
+1.0.0, 2021-10-20: Some notes
 ifndef::imagesdir[:imagesdir: images]
 //:toc-placement!:  // prevents the generation of the doc at this position, so it can be printed afterwards
 :sourcedir: ../src/main/java
@@ -14,9 +14,21 @@ ifdef::backend-html5[]
 // print the toc here (not at the default position)
 //toc::[]
 
-== Header 1
+== Projektantrag Lukas Lummerstorfer
 
-Hier ist ein text
 
-=== Header 2
+== Idee:
+
+Ich möchte ein Projekt machen, welches ein Stromabrechnungssystem simulieren soll.
+
+== Technologien die ich verwende:
+
+	•	Java
+	•	Java FX
+	•	Maven 
+
+== Funktionalitäten:
+
+Dieses Programm soll aufzeichnen wie viel Strom verbraucht wird in einer bestimmten Zeit.
+Danach soll dann der Preis für den genutzten Strom ausgeben.
 
