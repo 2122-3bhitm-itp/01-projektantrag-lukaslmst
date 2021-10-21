@@ -25,10 +25,14 @@ Ich möchte ein Projekt machen, welches ein Stromabrechnungssystem simulieren so
 
 	•	Java
 	•	Java FX
-	•	Maven 
+	•	Maven
 
 == Funktionalitäten:
 
-Dieses Programm soll aufzeichnen wie viel Strom verbraucht wird in einer bestimmten Zeit.
-Danach soll dann der Preis für den genutzten Strom ausgeben.
+Der Benutzer soll in einer grafischen Nutzeroberfläche seine ID bzw. seinen Namen eingeben können. In einem weiteren
+Feld sollen die verbrauchten kWh eingetragen werden. Drückt mann dann auf berechnen, sollte ein Fenster erscheinen, dass eine Stromrechnung darstellet.
+Zudem sollte es noch einen Button für Print geben. Dieser soll die Rechnung bei bedarf ausdrucken.
 
+== Motivation
+
+Ich möchte mit diesem Projekt erstmals grafisches Programmieren mit Java ausprobieren.
