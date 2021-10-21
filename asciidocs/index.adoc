@@ -20,6 +20,7 @@ ifdef::backend-html5[]
 == Idee:
 
 Ich möchte ein Projekt machen, welches ein Stromabrechnungssystem simulieren soll.
+Das ganze soll über eine grafische Nutzeroberfläche gesteuert werden können.
 
 == Technologien die ich verwende:
 
@@ -30,7 +31,7 @@ Ich möchte ein Projekt machen, welches ein Stromabrechnungssystem simulieren so
 == Funktionalitäten:
 
 Der Benutzer soll in einer grafischen Nutzeroberfläche seine ID bzw. seinen Namen eingeben können. In einem weiteren
-Feld sollen die verbrauchten kWh eingetragen werden. Drückt mann dann auf berechnen, sollte ein Fenster erscheinen, dass eine Stromrechnung darstellet.
+Feld sollen die verbrauchten kWh eingetragen werden. Drückt mann dann auf berechnen, sollte ein Fenster erscheinen, dass eine Stromabrechnung darstellet.
 Zudem sollte es noch einen Button für Print geben. Dieser soll die Rechnung bei bedarf ausdrucken.
 
 == Motivation
